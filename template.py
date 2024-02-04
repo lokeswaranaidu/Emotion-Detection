@@ -4,7 +4,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name="Emotion Detection"
+project_name="Emotion_Detection"
 
 
 list_of_files = [
